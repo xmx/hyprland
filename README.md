@@ -1,5 +1,11 @@
 # hyprland 个性化配置
 
+## 推荐应用
+
+https://wiki.hyprland.org/Useful-Utilities/
+
+https://github.com/hyprland-community/awesome-hyprland
+
 ## 自动开启数字小键盘
 
 参考：https://github.com/hyprwm/Hyprland/issues/204
