@@ -1,0 +1,2 @@
+# hyprland
+https://hyprland.org
